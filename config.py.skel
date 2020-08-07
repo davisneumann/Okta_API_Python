@@ -1,0 +1,5 @@
+token = ""
+tenant = ""
+headers = {"Authorization": "SSWS " + token,
+           "Accept": "application/json",
+           "Content-Type": "application/json"}
